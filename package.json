@@ -8,7 +8,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
   },
-  "author": "Nano pang",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanopang/kwsp-calculator.git"
+  },
+  "author": "nanopang",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^22.0.0",
